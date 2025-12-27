@@ -631,12 +631,13 @@ imgtk2=ImageTk.PhotoImage(img2,master=root)
 lbl_img2=Label(root,image=imgtk2)
 lbl_img2.place(relx=.88,rely=0)
 
-footer=Label(root,text='Developed by: Anshul Chauhan\n 📱9311876766',
+footer=Label(root,text='Developed by: Anshul Chauhan\n 📱9999999999',
        font=('arial',18,'bold'),bg="#0bfbeb",fg='blue')
 footer.pack(side='bottom')
 
 
 main_screen()
+
 
 
 root.mainloop()
